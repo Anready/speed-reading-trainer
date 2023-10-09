@@ -54,3 +54,7 @@ Feel free to contribute to and enhance the program!
 This Speed Reading Trainer program was created by AnreadyX. Special thanks to the Python community for the tkinter library.
 
 Use this tool to practice and enhance your reading speed, tackling even large texts with ease!
+
+# License
+
+License (MID) in file LICENSE
